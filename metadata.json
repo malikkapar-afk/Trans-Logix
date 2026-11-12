@@ -1,0 +1,6 @@
+{
+  "name": "TransLogix — Логистическая платформа",
+  "description": "Прием и обработка заказов грузоперевозок, онлайн трекинг, прием платежей, колл-центр диспетчеризации и кабинеты водителя и заказчика.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
